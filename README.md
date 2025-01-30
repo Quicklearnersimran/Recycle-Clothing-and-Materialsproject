@@ -1,4 +1,6 @@
 # Recycle-Clothing-and-Materialsproject
+# Recycle your old clothing and help reduce waste. Donate your used clothes or send them to recycling centers where they can be repurposed into new products.
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
